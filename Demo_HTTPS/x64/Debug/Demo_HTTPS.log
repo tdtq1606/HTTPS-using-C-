@@ -1,0 +1,6 @@
+﻿  https_tcpserver.cpp
+D:\Học\Năm 3\MHUD\Demo_HTTPS_3\Demo_HTTPS\Demo_HTTPS\https_tcpserver.cpp(127,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Học\Năm 3\MHUD\Demo_HTTPS_3\Demo_HTTPS\Demo_HTTPS\https_tcpserver.cpp(148,27): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+D:\Học\Năm 3\MHUD\Demo_HTTPS_3\Demo_HTTPS\Demo_HTTPS\https_tcpserver.cpp(175,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Học\Năm 3\MHUD\Demo_HTTPS_3\Demo_HTTPS\Demo_HTTPS\https_tcpserver.cpp(181,89): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Demo_HTTPS.vcxproj -> D:\Học\Năm 3\MHUD\Demo_HTTPS_3\Demo_HTTPS\x64\Debug\Demo_HTTPS.exe
